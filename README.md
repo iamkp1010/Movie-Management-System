@@ -50,7 +50,7 @@ This GUI based project is aimed for the use of admins of the theater to manage t
 * PyQT5
 * SQLite
 
-##Features
+## Features
 
 - Sign up/Login feature
 -  Multiple Admins can edit the data
@@ -62,8 +62,6 @@ This GUI based project is aimed for the use of admins of the theater to manage t
 	-  Update the Movie information
 - Storing the Movie details in a file for later uses
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 - Signup / Login
@@ -71,13 +69,13 @@ This GUI based project is aimed for the use of admins of the theater to manage t
 
 - Main Window
 	- On this window you will be able to add, display, delete, search and update the movie details like
-	1. Movie ID 
-	2. Name
-	3. Genre
-	4. Release date
-	5. Budget
-	6. Duration 
-	7. Rating
+		1. Movie ID 
+		2. Name
+		3. Genre
+		4. Release date
+		5. Budget
+		6. Duration 
+		7. Rating
 
 	- We can switch to Cast and Director windows using their buttons.
 
@@ -90,9 +88,6 @@ This GUI based project is aimed for the use of admins of the theater to manage t
 -Finally you can Log out and can Login again.
 
 
-
-
-<!-- CONTACT -->
 ## Contacts
 
 Krupal Patel - [@iamkp1010](https://github.com/iamkp1010) - krupalpatel150@gmail.com
