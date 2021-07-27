@@ -50,6 +50,7 @@ This GUI based project is aimed for the use of admins of the theater to manage t
 * SQLite
 
 ##Features
+
 - Sign up/Login feature
 -  Multiple Admins can edit the data
 -  Admins can,
