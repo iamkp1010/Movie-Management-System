@@ -27,9 +27,6 @@ A GUI based Movie Management System made with the help of Tkinter, SQLite3 and P
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About-The-Project
 
 This GUI based project is aimed for the use of admins of the theater to manage the information related to the movies. It is built with Python, SQLite3 and Tkinter.
