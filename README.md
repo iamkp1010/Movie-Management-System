@@ -15,7 +15,6 @@ A GUI based Movie Management System made with the help of Tkinter, SQLite3 and P
 <br>
 
 
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
