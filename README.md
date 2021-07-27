@@ -1,7 +1,7 @@
 # Movie-Management-System
 A GUI based Movie Management System made with the help of Tkinter, SQLite3 and Python.
 
-
+<!-- PROJECT LOGO -->
 <p align="center">
   <a href="">
     <img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" alt="Logo" width="160" height="80"><img src="https://static.javatpoint.com/python/images/tkinter-tutorial.png" alt="Logo" width="160" height="200">
